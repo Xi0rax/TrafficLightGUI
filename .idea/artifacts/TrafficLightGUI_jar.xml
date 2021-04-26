@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrafficLightGUI:jar">
+    <output-path>$PROJECT_DIR$/target/artifacts/TrafficLightGUI_jar</output-path>
+    <root id="archive" name="TrafficLightGUI.jar">
+      <element id="module-output" name="TrafficLightGUI" />
+    </root>
+  </artifact>
+</component>
